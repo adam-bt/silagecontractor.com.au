@@ -1,0 +1,124 @@
+@media (min-width:320px) and (max-width:479px) {
+.container { width: 100%; }
+.navigation .navbar-toggle { margin-bottom: 0; margin-top: 0; }
+.About-us .about-right .txt p { font-size: 12px; padding: 20px 0 0; }
+.service-graph { font-size: 12px; padding: 30px 15px !important; }
+.section-two > p { font-size: 12px; padding: 0 0 20px; }
+.about-right li { float: left; font-size: 12px; padding: 5px 0; width: 100%; }
+.section-two .about-left { float: left; margin-top: 20px; }
+.two-bottom > li { font-size: 12px; }
+.tick { float: left; margin: -5px 0 0; }
+.navigation .navbar-toggle { margin-top: -55px; }
+.navigation .navbar-brand > img { margin-top: 5px; max-width: 75%; }
+.navigation { padding: 20px 0 0; }
+.fourth-area { padding: 10px 0; }
+.line-1 { margin: 0; padding: 0; }
+.fourth-area .line-1 input { margin: 10px 0; width: 100%; }
+.section-four .fourth-area .line-3 textarea { margin: 10px 0; width: 100%; }
+.section-four .fourth-area .line-4 { padding: 0; }
+.copyright a { float: left; width: 100%; }
+.copyright p { font-size: 12px; }
+.section-four .fourth-area .line-4 .btn.btn-default { font-size: 14px; padding: 5px 20px; }
+.carousel-caption.carrigan { left: 30px; top: -14px; width: 50%; }
+.carrigan h3 { font-size: 13px; }
+.carrigan span { font-size: 12px; }
+.carrigan .btn.btn-success { font-size: 10px; padding: 2px 8px; }
+.section-three > p { font-size: 12px; }
+.section-three .about-right .txt { margin-top: 25px; }
+.section-two .two-bottom { padding: 0 15px; }
+.two-bottom .tick { height: 23px; margin: 0; }
+.navigation .navbar-right {
+  background: #1d7c56 none repeat scroll 0 0;
+}
+}
+ @media (min-width:480px) and (max-width:639px) {
+.container { width: 100%; }
+.navigation .navbar-toggle { margin-bottom: 0; margin-top: 0; }
+.About-us .about-right .txt p { font-size: 12px; padding: 20px 0 0; }
+.service-graph { font-size: 12px; padding: 30px 15px !important; }
+.section-two > p { font-size: 12px; padding: 0 0 20px; }
+.about-right li { float: left; font-size: 12px; padding: 5px 0; width: 100%; }
+.section-two .about-left { float: left; margin-top: 20px; }
+.two-bottom > li { font-size: 12px; }
+.tick { float: left; margin: -5px 0 0; }
+.navigation .navbar-toggle { margin-top: 0px; }
+.navigation .navbar-brand > img { margin-top: 5px; max-width: 75%; }
+.navigation { padding: 20px 0 0; }
+.fourth-area { padding: 10px 0; }
+.line-1 { margin: 0; padding: 0; }
+.fourth-area .line-1 input { margin: 10px 0; width: 100%; }
+.section-four .fourth-area .line-3 textarea { margin: 10px 0; width: 100%; }
+.section-four .fourth-area .line-4 { padding: 0; }
+.copyright a { float: left; width: 100%; }
+.copyright p { font-size: 12px; }
+.section-four .fourth-area .line-4 .btn.btn-default { font-size: 16px; padding: 7px 28px; }
+.carousel-caption.carrigan { left: 40px; top: 20px; width: 50%; }
+.carrigan h3 { font-size: 20px; }
+.carrigan span { font-size: 16px; }
+.carrigan .btn.btn-success { font-size: 12px; padding: 4px 10px; }
+.section-three > p { font-size: 12px; }
+.section-three .about-right .txt { margin-top: 25px; }
+.section-two .two-bottom { padding: 0 15px; }
+.two-bottom .tick { height: 23px; margin: 0; }
+.navigation .navbar-brand { padding: 0; width: 85%; }
+.About-us .about-left { text-align: center; width: 100%; }
+.navigation .navbar-right {
+  background: #1d7c56 none repeat scroll 0 0;
+}
+}
+ @media (min-width:640px) and (max-width:767px) {
+.container { width: 100%; }
+.navigation .navbar-toggle { margin-bottom: 0; margin-top: 0; }
+.About-us .about-right .txt p { font-size: 12px; padding: 20px 0 0; }
+.service-graph { font-size: 12px; padding: 30px 15px !important; }
+.section-two > p { font-size: 12px; padding: 0 0 20px; }
+.about-right li { float: left; font-size: 12px; padding: 5px 0; width: 100%; }
+.section-two .about-left { float: left; margin-top: 20px; }
+.two-bottom > li { font-size: 12px; }
+.tick { float: left; margin: -5px 0 0; }
+.navigation .navbar-toggle { margin-top: 0px; }
+.navigation .navbar-brand > img { margin-top: 5px; max-width: 75%; }
+.navigation { padding: 15px 0; }
+.fourth-area { padding: 10px 0; }
+.line-1 { margin: 0; padding: 0; }
+.fourth-area .line-1 input { margin: 10px 0; width: 49.5%; }
+.section-four .fourth-area .line-3 textarea { margin: 10px 0; width: 100%; }
+.section-four .fourth-area .line-4 { padding: 0; }
+.copyright a { float: left; width: 100%; }
+.copyright p { font-size: 12px; }
+.section-four .fourth-area .line-4 .btn.btn-default { font-size: 16px; padding: 7px 28px; }
+.carousel-caption.carrigan { left: 50px; top: 40px; width: 50%; }
+.carrigan h3 { font-size: 28px; }
+.carrigan span { font-size: 22px; }
+.carrigan .btn.btn-success { font-size: 14px; padding: 4px 20px; }
+.section-three > p { font-size: 12px; }
+.section-three .about-right .txt { margin-top: 25px; }
+.section-two .two-bottom { padding: 0 15px; }
+.two-bottom .tick { height: 23px; margin: 0; }
+.navigation .navbar-brand { padding: 0; width: 85%; }
+.About-us .about-left { text-align: center; width: 100%; }
+.navigation .navbar-right {
+  background: #1d7c56 none repeat scroll 0 0;
+}
+}
+ @media (min-width:768px) and (max-width:991px) {
+.container { max-width: 1000px; width: 100%; }
+.navbar-header { float: left; width: 32%; }
+.navigation .navbar-header .navbar-brand > img { margin-top: 15px; }
+.navigation .navbar-right { padding: 0 10px; }
+.navigation .navbar-right > li a { font-size: 14px; }
+.carousel-caption.carrigan { left: 70px; top: 45px; }
+.carrigan h3 { font-size: 35px; }
+.section-three .about-right .txt li { float: left; width: 100%; }
+.section-three .about-right .tick { float: left; }
+}
+ @media (min-width:992px) and (max-width:1199px) {
+.container { max-width: 1000px; width: 100%; }
+.navbar-header { float: left; width: 32%; }
+.navigation .navbar-header .navbar-brand > img { margin-top: 15px; }
+.navigation .navbar-right { padding: 0 10px; }
+.navigation .navbar-right > li a { font-size: 14px; }
+.carousel-caption.carrigan { left: 70px; }
+.section-three .about-right .txt li { float: left; width: 100%; }
+.section-three .about-right .tick { float: left; }
+}
